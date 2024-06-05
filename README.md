@@ -1,3 +1,3 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+
+[<img align="left" width="390" src="/github-metrics.svg">](#)
+
